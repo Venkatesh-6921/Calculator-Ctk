@@ -1,2 +1,2 @@
 # Calculator-Ctk
-Calcutor.exe using Python Module Custom Tkinter and Pyinstaller 
+Calculator.exe using Python Module Custom Tkinter and Pyinstaller 
