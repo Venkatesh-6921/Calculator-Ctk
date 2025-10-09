@@ -13,7 +13,7 @@ This is the first release of **Caculator**, a Python GUI application built with 
 ---
 
 ### 🧪 How to Run:
-1. Download the `Calculator.exe` file below 👇
+1. Download the `Calculator.exe` file in Release Pages At right side 👉
 2. Double-click to open it (you may get a Windows SmartScreen warning)
 3. No need for Python or any dependencies
 
