@@ -1,0 +1,14 @@
+customtkinter
+
+#To install CustomTkinter :
+
+The Command is 
+	
+	Use pip to install:
+
+	pip install customtkinter
+
+
+If you're on macOS/Linux and need admin rights, add --user:
+
+	pip install --user customtkinter
