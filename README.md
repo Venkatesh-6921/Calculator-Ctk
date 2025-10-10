@@ -13,7 +13,7 @@ A simple calculator built with Python and [CustomTkinter](https://github.com/Tom
 
 ## 📦 Download the App
 
-Download the latest `.exe` from the [Releases page](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest).
+Download the latest `.exe` from the [Releases page](https://github.com/Venkatesh-6921/Calculator-Ctk/releases).
 
 > Just download and run — no installation required.
 
