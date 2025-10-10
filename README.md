@@ -1,28 +1,27 @@
 # Calculator-Ctk
 Calculator.exe using Python Module Custom Tkinter and Pyinstaller 
 
-## 🚀 Calculator v1.0.0 - Windows Executable
+# 💻 CustomTkinter Calculator
 
-This is the first release of **Caculator**, a Python GUI application built with CustomTkinter.
+A simple calculator built with Python and [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
-### 💻 Features:
-- Modern Tkinter-based interface (CTk)
-- Simple and fast user experience
-- No installation required
+## ✅ Features
 
----
+- Modern UI with CustomTkinter
+- Supports basic arithmetic
+- Built as both source and `.exe`
 
-### 🧪 How to Run:
-1. Download the `Calculator.exe` file in Release Pages At right side 👉
-2. Double-click to open it (you may get a Windows SmartScreen warning)
-3. No need for Python or any dependencies
+## 📦 Download the App
 
----
+Download the latest `.exe` from the [Releases page](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest).
 
-### 📦 Files:
-✅ `Calculator.exe` — Windows standalone executable
+> Just download and run — no installation required.
 
 ---
 
-Let me know if you encounter any issues or bugs!
- 
+## 🔧 Run from Source
+
+1. Make sure Python is installed
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
